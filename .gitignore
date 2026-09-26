@@ -1,0 +1,17 @@
+# Dataset
+student_resource/dataset/
+data/
+*.tsv
+*.csv
+*.zip
+
+utils/
+
+.venv/
+
+.ipynb_checkpoints/
+
+__pycache__/
+*.pyc
+
+.DS_Store
