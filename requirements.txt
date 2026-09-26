@@ -6,3 +6,8 @@ lightgbm
 rapidfuzz 
 pyarrow 
 tqdm
+# --- added for the src/ matching pipeline (tested pins) ---
+Unidecode==1.4.0
+scipy==1.16.2
+sparse-dot-topn==1.2.0
+faiss-cpu==1.15.1

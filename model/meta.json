@@ -1,0 +1,23 @@
+{
+  "threshold": 0.9,
+  "val_f05": 0.9441633013175059,
+  "features": [
+    "name_token_sort",
+    "name_token_set",
+    "name_partial",
+    "name_sq_ratio",
+    "name_skel_ratio",
+    "name_jaccard",
+    "name_jw",
+    "addr_token_sort",
+    "addr_token_set",
+    "addr_jaccard",
+    "num_overlap",
+    "is_domain",
+    "nonlatin",
+    "cand_no_addr",
+    "len_ratio",
+    "src_is_s3",
+    "block_score"
+  ]
+}
